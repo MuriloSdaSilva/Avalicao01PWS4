@@ -1,0 +1,22 @@
+
+.App-header {
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+  gap: 100px;
+}
+
+.users-wrapper {
+  width: 400px;
+}
+
+.form-error {
+  color: red;
+  font-size: 12px;
+}
+
+.table-btn {
+  text-align: center;
+  cursor: pointer;
+}
+
